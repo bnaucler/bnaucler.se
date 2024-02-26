@@ -57,7 +57,6 @@ function toggletheme() {
 function settheme(theme) {
 
     gid("theme").href = "css/" + theme;
-    gid("ssel").innerHTML = theme == "dark.css" ? "L" : "D";
 
     localStorage.setItem("bnaucler-se-theme", theme);
 }

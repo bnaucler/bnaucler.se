@@ -4,3 +4,33 @@
     --col-txt: #aaa;
     --col-div: #ccc;
 }
+
+#ssel {
+    background: url("../img/mode_dark.png") no-repeat center;
+	background-size: contain;
+}
+
+#scrollup {
+    background: url("../img/arrowup_dark.png") no-repeat center;
+	background-size: contain;
+}
+
+#ppic {
+    display: block;
+    background: url("../img/ppic.png") no-repeat center;
+	background-size: contain;
+}
+
+#topblank {
+    display: none;
+}
+
+#github {
+    background: url("../img/github_dark.png") no-repeat center;
+	background-size: contain;
+}
+
+#linkedin {
+    background: url("../img/linkedin_dark.png") no-repeat center;
+	background-size: contain;
+}

@@ -4,3 +4,31 @@
     --col-txt: #555;
     --col-div: #555;
 }
+
+#ssel {
+    background: url("../img/mode_light.png") no-repeat center;
+	background-size: contain;
+}
+
+#scrollup {
+    background: url("../img/arrowup_light.png") no-repeat center;
+	background-size: contain;
+}
+
+#ppic {
+    display: none;
+}
+
+#topblank {
+    display: block;
+}
+
+#github {
+    background: url("../img/github_light.png") no-repeat center;
+	background-size: contain;
+}
+
+#linkedin {
+    background: url("../img/linkedin_light.png") no-repeat center;
+	background-size: contain;
+}
