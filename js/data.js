@@ -56,14 +56,14 @@ const wdata = [
                 "title":"Sumatran Orangutan Society",
                 "when":"2012",
                 "loco":"Denmark, London and Indonesia",
-                "text":"As a project leader for a product development project for the NGO Sumatran Orangutan Society my work tasks included coordination between a work group in three different time zones, product ideation and business plan development.",
+                "text":"As a project leader for a product development project for the NGO Sumatran Orangutan Society my work tasks included coordination of a work group operating in three different time zones, product ideation and business plan development.",
             },
 
             {
                 "title":"1 Mile clock",
                 "when":"2011",
                 "loco":"Burning Man, Nevada (US)",
-                "text":"I was a part of the team who, led by the artist Jim Bowers, built the worlds' largest clock. The record can be seen in Guinness book of world records under the title 'Worlds largest timepiece.'",
+                "text":"I was a part of the team who, led by the artist Jim Bowers, built the world's largest clock. The record can be seen in Guinness book of world records under the title 'World's largest timepiece.'",
             },
 
             {
@@ -90,7 +90,7 @@ const wdata = [
                 "title":"Program manager / educator",
                 "when":"2019-current",
                 "loco":"Väddö Folkhögskola, Väddö (SE)",
-                "text":"At Väddö Folkhögskola I have been developing and delivering educational programs in the fields of design, entrepreneurship and social change. The programs have been regular folk high school programs, yrkeshögskola and custom designed programs for corporate clients."
+                "text":"At Väddö Folkhögskola I have been developing and delivering educational programs in the fields of design, entrepreneurship and social change. The programs have been folk high school programs, yrkeshögskola and custom designed programs for corporate clients."
             },
 
             {
