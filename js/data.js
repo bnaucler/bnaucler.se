@@ -130,7 +130,7 @@ const wdata = [
             },
 
             {
-                "title":"Technichian / consultant / educator / administrator",
+                "title":"Technichian / consultant / admin",
                 "when":"2000-2003",
                 "loco":"Solvus Support AB, Järvsö (SE)",
                 "text":"My original position on Solvus Support AB in Järvsö, Sweden was as a support technician; receiving phone calls and resolving home computer issues. During my time within the company my role was expanded to mainly focuse on large scale networking equipment - doing consultant work and education. I did also administer the UNIX servers of the company. On Solvus i learned a lot about human interaction as I was primarily doing service work. I did also gain a lot of insight in the fields of technology and pedagogy."
@@ -149,7 +149,7 @@ const wdata = [
             },
 
             {
-                "title":"Theater; acting and directing",
+                "title":"Theater: acting and directing",
                 "when":"2005-2006",
                 "loco":"Skinnskattebergs Folkhögskola, Skinnskatteberg (SE)",
                 "text":"I undertook a multidisciplinary theater education where I practiced mainly acting, but also directing, playwriting, propmaking, sound & light setup and control."
