@@ -87,8 +87,15 @@ const wdata = [
         "hdr":"Employment",
         "data": [
             {
+                "title":"Development engineer",
+                "when":"2024-current",
+                "loco":"Nordic Engineering Partner, Norrtälje (SE)",
+                "text":"Working at NEP Hardware Test I am developing mechanical, electronical & software solutions for a wide array of customers. This includes everything from cutting metal to programming microcontrollers and designing circuit boards."
+            },
+
+            {
                 "title":"Program manager / educator",
-                "when":"2019-current",
+                "when":"2019-2024",
                 "loco":"Väddö Folkhögskola, Väddö (SE)",
                 "text":"At Väddö Folkhögskola I have been developing and delivering educational programs in the fields of design, entrepreneurship and social change. The programs have been folk high school programs, yrkeshögskola and custom designed programs for corporate clients."
             },
